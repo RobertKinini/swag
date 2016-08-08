@@ -76,7 +76,7 @@ To set everything up, there are a number of plugins you need to install.
 * [wpMandrill](https://wordpress.org/plugins/wpmandrill/)(optional)
 * [Groups](https://wordpress.org/plugins/groups/) 
 
-We use github updator to keep all custome made plugins and theme upto date.
+We use github updator to keep all custome made plugins and theme up to date.
 * [Github updator](https://github.com/afragen/github-updater)
  
 
